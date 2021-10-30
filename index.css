@@ -63,7 +63,7 @@ div{
   top: 560.41px;
 }
 h2{
-  padding: 65px 70px;
+  padding: 60px 70px;
   position: absolute;
   font-family: Poppins;
   font-weight: bold;
@@ -74,6 +74,9 @@ h2{
 }
 .long{
   padding: 40px 80px;
+}
+/*for the vocab game h2*/
+
 }
 /* unvisited link */
 a:link {
